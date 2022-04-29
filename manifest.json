@@ -1,6 +1,6 @@
 {
   "name": "Emvoutia",
-  "description": "https://sarantakos.wordpress.com/2021/05/27/but/",
+  "description": "Ένα browser extension για τον εξευγενισμό ιστοσελίδων (https://sarantakos.wordpress.com/2021/05/27/but/)",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [
