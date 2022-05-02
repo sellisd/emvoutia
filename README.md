@@ -3,7 +3,15 @@
 Ένα browser extension για τον εξευγενισμό του διαδικτύου εμπνευσμένο από https://sarantakos.wordpress.com/2021/05/27/but/ και με σήμα το πορτοκάλι ("Γκας" Πορτοκάλος)
 
 ## Usage
-Install the extension and it is always active
+Once installed the extension is always active.
+
+## Installation
+
+1. [Download](https://github.com/sellisd/emvoutia/archive/refs/heads/main.zip) and unzip the repository
+2. Visit chrome://extensions/ and turn on "Developer mode"
+3. Click "Load unpacked" button and load the folder emvoutia-main
+
+Detailed instructions with screenshots can be found here: https://dev.to/ben/how-to-install-chrome-extensions-manually-from-github-1612
 
 ## Asset credits
 
