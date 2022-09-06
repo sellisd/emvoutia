@@ -3,9 +3,17 @@
 Ένα browser extension για τον εξευγενισμό του διαδικτύου εμπνευσμένο από https://sarantakos.wordpress.com/2021/05/27/but/ και με σήμα το πορτοκάλι ("Γκας" Πορτοκάλος)
 
 ## Usage
-Once installed the extension is always active.
+Once installed the extension is always active. You can always deactivate it by clicing on the extensions button of chrome on the right of the address bar
 
 ## Installation
+
+### Install from Chrome web store (recommended)
+
+1. From the extension home in the [Chrome Web store](https://chrome.google.com/webstore/detail/emvoutia/fpenacnkaalppebemahfjndjhomflhcn)
+2. Click on the button 'Add to Chrome' and accept to add the extension in the pop up warning
+3. Once installed the extention is always active so any webpage you visit from now on will be processed
+
+### Install from source
 
 1. [Download](https://github.com/sellisd/emvoutia/archive/refs/heads/main.zip) and unzip the repository
 2. Visit chrome://extensions/ and turn on "Developer mode"
